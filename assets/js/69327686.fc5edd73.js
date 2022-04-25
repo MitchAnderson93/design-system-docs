@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_system_docs=self.webpackChunkdesign_system_docs||[]).push([[199],{9062:function(s){s.exports=JSON.parse('{"allTagsPath":"design-system-docs/blog/tags","name":"facebook","count":1,"permalink":"design-system-docs/blog/tags/facebook"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdesign_system_docs=self.webpackChunkdesign_system_docs||[]).push([[291],{7165:function(s){s.exports=JSON.parse('{"allTagsPath":"design-system-docs/docs/getting-started/blog/tags","name":"hello","count":2,"permalink":"design-system-docs/docs/getting-started/blog/tags/hello"}')}}]);
