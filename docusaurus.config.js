@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'QLD Design system',
-  tagline: 'Documentation via confluence',
+  tagline: 'QLD Design system documentation and guides.',
   url: 'https://designsystem.qld.gov.au',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -62,7 +62,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         copyright: `© The State of Queensland 1995–${new Date().getFullYear()}.`,
       },
       prism: {

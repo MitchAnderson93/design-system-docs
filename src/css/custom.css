@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  /** Override docusaurus defaults **/
+  --ifm-font-family: 'Lato', sans-serif !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -38,7 +40,3 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-/** Override docusaurus defaults **/
-:root {
-  --ifm-font-family-base: "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
-}
