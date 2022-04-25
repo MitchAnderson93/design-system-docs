@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'qld.gov.au', // Usually your GitHub org/user name.
+  organizationName: 'andersmx', // Usually your GitHub org/user name.
   projectName: 'design-system-docs', // Usually your repo name.
 
   presets: [
