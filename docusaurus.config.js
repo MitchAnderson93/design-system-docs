@@ -55,7 +55,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/qld-gov-au/design-system-docs',
+            href: 'https://github.com/qld-gov-au/design-system',
             label: 'GitHub',
             position: 'right',
           },
