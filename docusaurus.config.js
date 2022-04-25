@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'QLD Design system',
   tagline: 'QLD Design system documentation and guides.',
-  url: 'https://designsystem.qld.gov.au',
+  url: 'https://design-system-docs.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
