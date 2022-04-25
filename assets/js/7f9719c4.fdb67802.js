@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_system_docs=self.webpackChunkdesign_system_docs||[]).push([[844],{1957:function(s){s.exports=JSON.parse('{"permalink":"design-system-docs/docs/getting-started/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
