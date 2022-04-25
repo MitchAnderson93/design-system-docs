@@ -9,7 +9,7 @@ const config = {
   title: 'QLD Design system',
   tagline: 'QLD Design system documentation and guides.',
   url: 'https://andersmx.github.io',
-  baseUrl: '/design-system-docs/docs/getting-started',
+  baseUrl: 'design-system-docs/docs/getting-started',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
